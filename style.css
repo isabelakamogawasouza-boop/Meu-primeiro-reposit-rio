@@ -9,12 +9,12 @@
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
     background-color: #f0f4f8; /* define a cor de fundo da página */
-    color: #333333; /* define a cor padrão dos textos */
+    color: #0f3859; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #2b6cb0; /* define a cor de fundo do cabeçalho */
+    background-color: #9bc0e6; /* define a cor de fundo do cabeçalho */
     color: white; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
@@ -33,7 +33,7 @@ main {
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
-    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* cria uma sombra suave ao redor do card */
+    box-shadow: 0px 4px 10px rgba(99, 96, 101, 0.15); /* cria uma sombra suave ao redor do card */
     margin-bottom: 25px; /* adiciona espaço abaixo do card */
     transition: 0.3s; /* cria transição suave em mudanças visuais */
 }
@@ -71,7 +71,7 @@ button {
 
 /* efeito aplicado quando o mouse passa sobre o botão */
 button:hover {
-    background-color: #1e4e8c; /* escurece a cor do botão ao passar o mouse */
+    background-color: #21426d; /* escurece a cor do botão ao passar o mouse */
     transform: scale(1.05); /* aumenta levemente o tamanho do botão */
 }
 
