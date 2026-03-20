@@ -84,7 +84,7 @@ button:hover {
 
 /* estiliza a seção de informações */
 .informacoes {
-    background-color: white; /* define fundo branco */
+    background-color: rgb(204, 228, 239); /* define fundo branco */
     padding: 25px; /* adiciona espaço interno */
     border-radius: 10px; /* arredonda os cantos */
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15); /* adiciona sombra suave */
